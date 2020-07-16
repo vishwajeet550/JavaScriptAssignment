@@ -1,3 +1,3 @@
 # JavaScriptAssignment
-LetsUpgrade JavaScript 
+LetsUpgrade JavaScript. 
 For Assignment2 use .js file
